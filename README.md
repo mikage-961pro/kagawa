@@ -25,7 +25,7 @@
 実装としてはGPSなどを用いたリアルタイムの位置情報を利用することが好ましいかと思います。
 
 
-### About Resource
+## About Resource
 index.js：ホームページに埋め込む識別方法です。
 
-Unity：https://github.com/nkjzm/Udonのクローンになります。
+Unity：https://github.com/nkjzm/Udon のクローンになります。
